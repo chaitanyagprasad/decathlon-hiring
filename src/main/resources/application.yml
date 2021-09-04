@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path: /api
+  port: 8080
+
+sms:
+  host: https://run.mocky.io
+  url: /v3/fd99c100-f88a-4d70-aaf7-393dbbd5d99f
